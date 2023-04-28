@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "SunCo Convo id collector",
+    "short_description": "Retrieve SunCo Convo id from ticket's audit.",
+    "long_description": "Retrieve SunCo Convo id from ticket's audit.",
+    "installation_instructions": "Make sure to add your field ids for conversationId."
+  }
+}
