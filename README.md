@@ -1,14 +1,7 @@
-# App name
+# SunCo Background
 
-[brief description of the app]
+Zendesk custom app in headless mode. For each ticket, it will grab the SunCo conversation id from the ticket's audit and add it to a ticket field
 
 ### The following information is displayed:
 
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+- None - it's a ticket app running in the background.
